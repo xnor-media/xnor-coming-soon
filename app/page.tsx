@@ -249,7 +249,7 @@ export default function Home() {
             GIANT XNOR WORDMARK — fixed clipped ascender on "O"
         ================================================= */}
 
-        <div className="pointer-events-none absolute inset-x-0 bottom-[-45px] z-0 flex justify-center overflow-x-hidden overflow-y-visible pt-[2vw]">
+        <div className="pointer-events-none absolute inset-x-0 md:bottom-[-45px] bottom-[-15px] z-0 flex justify-center overflow-x-hidden overflow-y-visible pt-[2vw]">
           {/* XNOR */}
           <span
             aria-hidden="true"
